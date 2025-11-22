@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Sync state and logs (these are user-specific)
+.granola-sync-state.json
+*.log
+
+# Output directories (don't commit synced notes)
+basic-memory/
+Granola/
+
+# Compiled AppleScript apps (built by user)
+*.app/
+
+# User-specific configuration
+config/local_config.py
+
+# Granola cache (never commit user data)
+cache*.json
+
+# Backup files
+*-backup.json
+*.bak
+
+# Test files
+test_*.py
+*_test.py
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Logs
+logs/
+*.log
