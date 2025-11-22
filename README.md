@@ -25,7 +25,7 @@ Automatically sync your [Granola](https://www.granola.so/) meeting notes into yo
 
 1. **Clone and configure**
    ```bash
-   git clone https://github.com/yourusername/granola-sync.git
+   git clone https://github.com/arjunmalhotra/granola-sync.git
    cd granola-sync
 
    # Edit paths in src/import-granola-to-memory.py if needed
@@ -218,7 +218,7 @@ Built for personal use and shared with the community. Granola is a product of Gr
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/granola-sync/issues)
+- **Issues**: [GitHub Issues](https://github.com/arjunmalhotra/granola-sync/issues)
 - **Granola Support**: [help.granola.so](https://help.granola.so)
 
 ---
